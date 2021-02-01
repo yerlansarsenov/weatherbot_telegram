@@ -1,0 +1,45 @@
+{
+    "base": "stations", 
+    "clouds": {
+        "all": 100
+    }, 
+    "cod": 200, 
+    "coord": {
+        "lat": -8.03, 
+        "lon": 111.98
+    }, 
+    "dt": 1590569672, 
+    "id": 7579513, 
+    "main": {
+        "feels_like": 303.22, 
+        "grnd_level": 999, 
+        "humidity": 85, 
+        "pressure": 1010, 
+        "sea_level": 1010, 
+        "temp": 299.93, 
+        "temp_max": 299.93, 
+        "temp_min": 299.93
+    }, 
+    "name": "Salam", 
+    "rain": {
+        "1h": 1.24
+    }, 
+    "sys": {
+        "country": "ID", 
+        "sunrise": 1590532706, 
+        "sunset": 1590574823
+    }, 
+    "timezone": 25200, 
+    "weather": [
+        {
+            "description": "moderate rain", 
+            "icon": "10d", 
+            "id": 501, 
+            "main": "Rain"
+        }
+    ], 
+    "wind": {
+        "deg": 177, 
+        "speed": 3.65
+    }
+}
